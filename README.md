@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center"> Hi, I'm Toni. </h1>
 
-<!--
-**ToniXWD/ToniXWD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![ToniX's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToniXWD&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToniXWD&&theme=radical&size_weight=1&count_weight=0&langs_count=10&layout=compact)]((https://github.com/anuraghazra/github-readme-stats))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ToniXWD)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ToniXWD&row=1&margin-w=10&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Taot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ToniXWD&theme=xcode)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ToniXWD&left_color=green&right_color=red)
