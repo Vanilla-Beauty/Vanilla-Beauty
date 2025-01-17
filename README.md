@@ -16,6 +16,8 @@
 
 ![Taot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ToniXWD&theme=xcode)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ToniXWD)](https://github.com/anuraghazra/github-readme-stats)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ToniXWD&left_color=green&right_color=red)
 
 </div>
