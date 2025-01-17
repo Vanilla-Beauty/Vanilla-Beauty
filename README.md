@@ -14,10 +14,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ToniXWD&row=1&margin-w=10&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Taot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ToniXWD&theme=xcode)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="250" align="center" style="margin: 0 5px" src="https://github-readme-activity-graph.vercel.app/graph?username=ToniXWD&theme=github-compact" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="250" align="center" style="margin: 0 5px" src="https://github-readme-stats.vercel.app/api/wakatime?username=ToniXWD&layout=compact" />
+</a>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ToniXWD)](https://github.com/anuraghazra/github-readme-stats)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ToniXWD&left_color=green&right_color=red)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=ToniXWD&left_color=green&right_color=red) -->
 
 </div>
