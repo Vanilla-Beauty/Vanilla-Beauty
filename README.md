@@ -21,7 +21,7 @@
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" style="margin: 0 5px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Vanilla-Beauty&layout=compact" />
+  <img align="center" style="margin: 0 5px" src="https://github-readme-stats.vercel.app/api/wakatime?username=VanillaBeauty&layout=compact" />
 </a>
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Vanilla-Beauty&left_color=green&right_color=red) -->
