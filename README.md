@@ -14,6 +14,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Vanilla-Beauty&row=1&margin-w=10&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!-- [Bilibili @ VanillaBeauty](https://space.bilibili.com/325515312/) |  -->
+[Zhihu @ 香草美人](https://www.zhihu.com/people/Vanilla-Beauty) | [小红书 @ 香草美人](https://www.xiaohongshu.com/user/profile/67388752000000001d02ddc5) 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" style="margin: 0 5px" src="https://github-readme-activity-graph.vercel.app/graph?username=Vanilla-Beauty&theme=github-compact" />
 </a>
